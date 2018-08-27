@@ -1,2 +1,2 @@
-# scripts
-Various scripts for different use
+# Automated task scripts
+Various scripts for different use on different system
