@@ -2,6 +2,11 @@
   PowerShell script used on Windows Server 2016.
    Script was used to monitor RAM usage and restart application if 
     system has no more resources left as defiened in script!
+
+
+    To run script, place it somewhere on th system and open PowerShell terminal with Admin rights and 
+    execute following command:  Powershell.exe -File C:\\path\to\script\ram_checking_script.ps1
+
 #>
 
 $trueValue = $true
